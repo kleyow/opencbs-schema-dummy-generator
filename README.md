@@ -1,0 +1,1 @@
+# opencbs-schema-dummy-generator
